@@ -8,7 +8,7 @@
 
 Contact me:
 <div id="badges">
-  <a href="https://t.me/LyliaPigay-URL">
+  <a href="https://t.me/JyliaPigay-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
