@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, my name is Jylia 👋<a href="https://" target="_blank"></a> 
+<h1 align="center">Hi there, my name is Jylia <a href="https://" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+Data+Scientist)](https://git.io/typing-svg)
 
