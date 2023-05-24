@@ -9,5 +9,3 @@
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilgblog)](https://github.com/pilgblog/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pilgblog&repo=github-practicum-yandex)](https://github.com/pilgblog/github-practicum-yandex)
