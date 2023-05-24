@@ -31,4 +31,4 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
 </div>
 
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pilgblog&theme=dark&background=000000)](https://git.io/streak-stats)
