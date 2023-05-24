@@ -9,3 +9,4 @@
 
 Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / Pandas / Keras / Sckit-Learn
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pilgblog&theme=practicum-yandex)
