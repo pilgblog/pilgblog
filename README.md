@@ -11,8 +11,8 @@ Contact me:
   <a href="https://t.me/JyliaPigay">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="jylialisa@mail.ru">
-    <img src="https://img.shields.io/badge/@mail-green?style=for-the-badge&logo=youtube&logoColor=white" alt="@mail Badge"/>
+  <a href="jpilgay@gmail.com">
+    <img src="https://img.shields.io/badge/@gmail-green?style=for-the-badge&logo=youtube&logoColor=white" alt="@gmail Badge"/>
   </a>
 </div>
 
