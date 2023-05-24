@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, my name is Julia <a href="https://" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<h1 align="leftward">I am a Data Scientist and Data Analyst<a href="https://" target="_blank"></a> 
+
 - :telescope: I am currently expanding my knowledge in the field of machine learning
 
 - :seedling: I participate in competitions on Kaggle
