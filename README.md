@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, my name is Jylia <a href="https://" target="_blank"></a> 
+<h1 align="center">Hi there, my name is Julia <a href="https://" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 - :telescope: I am currently expanding my knowledge in the field of machine learning
