@@ -12,4 +12,4 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
 Languages and Tools:
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pilgblog&theme=pilgblog)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pilgblog&theme=yandex-practicum)
