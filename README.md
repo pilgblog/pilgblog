@@ -6,10 +6,11 @@
 - 🌱 I participate in competitions on Kaggle
 - ⚡ I want to work in the field of data analysis and DS
 
-
+Contact me
+https://img.shields.io/badge/Telegram-t.me/JyliaPilgay-blue
 Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / Pandas / Keras / Sckit-Learn
 
 Languages and Tools:
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pilgblog&theme=yandex-practicum)
+
