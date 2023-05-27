@@ -132,6 +132,7 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
   
 </table>
 </details>
+
 ## Классификация:
 <details open>
   <summary>Список проектов по теме</summary>
@@ -156,7 +157,7 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
   <td>Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мне предоставлены исторические данные о поведении клиентов и расторжении договоров с банком</td>
   <td>pandas numpy matplotlib sklearn</td>
 </tr>
-## Анализ текстов:
+
 </table>
 </details>
 <!-- NLP-->
@@ -179,7 +180,6 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
 </table>
 </details>
 
-## Компьютерное зрение:
 </table>
 </details>
 <!-- NLP-->
