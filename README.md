@@ -29,8 +29,7 @@ Contact me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="AWS" title="React" alt="React" width="50" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>
 </div>
-# Мое резюме:
- - [Резюме]()
+# Мое резюме: https://github.com/pilgblog/pilgblog/blob/main/Пильгай%20Юлия.pdf
  - 
 # Проекты:
 
