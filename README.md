@@ -30,9 +30,10 @@ Contact me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>
 </div>
 # Мое резюме: 
+
 <div id="badges">
   <a href="https://github.com/pilgblog/pilgblog/blob/main/Пильгай%20Юлия.pdf">
-    <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="Резюме"/>
+    <img src="https://img.shields.io/badge/Резюме-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="Резюме"/>
   </a>
 </div>
   
