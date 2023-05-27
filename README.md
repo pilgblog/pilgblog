@@ -7,7 +7,7 @@
 
 - :seedling: I participate in competitions on Kaggle
 
-- :zap: I want to work in the field of data analysis and DS
+- :zap: Want to work in the field of data analysis and DS
 
 
 Contact me:
@@ -16,8 +16,6 @@ Contact me:
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-# Мое резюме: 
-<p><big>file:///C:/Users/User/Downloads/Пильгай%20Юлия%20(5).pdf</big></p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
