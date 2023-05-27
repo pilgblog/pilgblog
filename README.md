@@ -96,7 +96,7 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
   <td><a href = "https://github.com/pilgblog/practicum-yandex/tree/main/08_Восстановление%20золота%20из%20руды">Восстановление золота из руды</a></td>
   <td>Яндекс.Практикум</td>
   <td>Необходимо подготовить прототип модели машинного обучения для «Цифры». Необходимо спрогнозировать концентрацию золота при проведении процесса очистки золотосодержащей руды</td>
-  <td>Завершен</td>
+  <td>pandas numpy matplotlib seaborn catboost lightgbm sklearn</td>
 </tr>
 <tr>
   <td><a href = "https://github.com/pilgblog/practicum-yandex/tree/main/10_Определение%20стоимости%20автомобилей">Определение стоимости автомобилей</a></td>
@@ -156,8 +156,7 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
   <td>Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мне предоставлены исторические данные о поведении клиентов и расторжении договоров с банком</td>
   <td>pandas numpy matplotlib sklearn</td>
 </tr>
-
- 
+## Анализ текстов:
 </table>
 </details>
 <!-- NLP-->
@@ -180,6 +179,7 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
 </table>
 </details>
 
+## Компьютерное зрение:
 </table>
 </details>
 <!-- NLP-->
