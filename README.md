@@ -101,13 +101,19 @@ Contact me:
   <td>Яндекс.Практикум</td>
   <td>На основании исторических данных необходимо разработать систему рекомендаций стоимости автомобиля</td>
   <td>pandas numpy matplotlib seaborn catboost lightgbm sklearn</td>
-</tr> 
+</tr>
+<tr>
+  <td><a href = "https://github.com/pilgblog/practicum-yandex/tree/main/09_Защита%20персональных%20данных%20клиентов">Защита персональных данных клиентов</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Разработать модель анонимизации персональных данных</td>
+  <td>pandas numpy matplotlib seaborn sklearn</td>
+</tr>   
 <tr>
   <td><a href = "https://github.com/pilgblog/practicum-yandex/tree/main/15_Финальный%20проект%20-%20Определение%20температуры%20стали">Прогнозирование температуры плавления стали</a></td>
   <td>Яндекс.Практикум</td>
   <td>Необходимо построить модель, которая предскажет температуру стали, чтобы уменьшить электропотребление на этапе обработки стали</td>
   <td>pandas numpy matplotlib seaborn catboost lightgbm sklearn</td>
-</tr> 
+</tr>
   
 </table>
 </details>
