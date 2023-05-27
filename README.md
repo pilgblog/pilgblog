@@ -74,7 +74,7 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
 </table>
 </details>
 
-##Регрессия:
+## Регрессия:
 <details open>
   <summary>Список проектов по теме</summary>
 <table>
