@@ -16,8 +16,8 @@ Contact me:
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / Pandas / Keras / Sckit-Learn
+# Мое резюме: 
+<p><big>file:///C:/Users/User/Downloads/Пильгай%20Юлия%20(5).pdf</big></p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
