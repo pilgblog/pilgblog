@@ -32,31 +32,8 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="React" alt="React" width="50" height="60"/>
 </div>
 
-# Портфолио
-<tr>
-  <td><a href = "https://finodays.com/">FINODAYS</a></td>
-  <td>Очная</td>
- <td><p>В процессе</p> (Последний этап перенесен на осень 2022)</td>
-  <td>Финалист (команда MegaQuant)</td>
- <td><p>Завершен</p></td>
-  <td>3 место (команда MegaQuant)</td>
-  <td><a href = "https://github.com/Stuksus/Hakaton_Finodays">Решение</a></td>
-</tr> 
 
-<tr>
-  <td><a href = "https://finodays.com/">Moscow City Hack</a></td>
-  <td><a href = "https://moscityhack2022.innoagency.ru">Moscow City Hack</a></td>
-  <td>Заочная</td>
- <td>Завершен</td>
-  <td>6 место (команда MegaQuant)</td>
-  <td><a href = "https://github.com/Stuksus/maketing_recomendation_service">Решение</a></td>
-</tr> 
- 
-</table>
-# Курсовые работы (Тексты):
-- [Масютин А.А.](https://www.hse.ru/org/persons/14279019),[Оценка экономического эффекта и улучшений от внедрения моделей машинного обучения на данных из банковского сектора в задачах бинарной классификации](https://github.com/Stuksus/Credit_scoring_model/blob/main/Курсовая%20работа.pdf)
 # Проекты:
-## Курсовые работы:
 <details open>
   <summary>Список проектов по теме</summary>
 <table>
@@ -64,7 +41,7 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
   <th>Название проекта</th>
   <th>Источник проекта</th>
   <th>Описание</th>
-  <th>Статус проекта</th>
+  <th>Инструменты</th>
 </tr> 
 <tr>
   <td><a href = "https://github.com/Stuksus/Credit_scoring_model">Оценка экономического эффекта и улучшений от внедрения моделей машинного обучения на данных из банковского сектора в задачах бинарной классификации</a></td>
