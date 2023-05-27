@@ -153,7 +153,7 @@ Skills: Data Science / Data Analytics / ML / SQL / Python / Machine Learning / P
   
   <tr>
   <td><a href = "https://github.com/pilgblog/practicum-yandex/tree/main/06_Отток%20клиентов">Исследование причин оттока клиентов банка</a></td>
-  <td>Kaggle, Яндекс.Практикум</td>
+  <td>Яндекс.Практикум</td>
   <td>Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мне предоставлены исторические данные о поведении клиентов и расторжении договоров с банком</td>
   <td>pandas numpy matplotlib sklearn</td>
 </tr>
