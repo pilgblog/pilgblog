@@ -37,7 +37,10 @@ Contact me:
     <img src="https://img.shields.io/badge/Resume-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="Resume"/>
   </a>
 </div>
-  
+
+# Сертификаты:
+ - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
+ 
 # Проекты:
 
 ## Аналитика:
