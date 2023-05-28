@@ -39,7 +39,7 @@ Contact me:
 </div>
 
 # Сертификаты:
- - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/pilgblog/pilgblog/blob/main/Pilgay%20Jylia_20232ЦПДС00335.pdf)
+ - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/pilgblog/pilgblog/blob/main/Пильгай%20Юлия%20Сергеевна_20232ЦПДС00335.pdf)/[EN](https://github.com/pilgblog/pilgblog/blob/main/Pilgay%20Jylia_20232ЦПДС00335.pdf)
  
 # Проекты:
 
