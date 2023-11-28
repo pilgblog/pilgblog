@@ -238,7 +238,8 @@ Contact me:
 </details>
 
 # Репозиторий проектоной деятельности:
-https://github.com/pilgblog/project_work
+<td><a href = "https://github.com/pilgblog/project_work">Разные направления проектной работы</a></td>
+
 
 # Моя статистика: 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Stuksus&show_icons=true&&hide=issues,contribs)
