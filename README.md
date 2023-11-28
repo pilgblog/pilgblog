@@ -237,7 +237,7 @@ Contact me:
 </table>
 </details>
 
-# Репозиторий проектоной деятельности:
+# Репозиторий проектной деятельности:
 <td><a href = "https://github.com/pilgblog/project_work">Разные направления проектной работы</a></td>
 
 
