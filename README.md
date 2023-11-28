@@ -207,7 +207,7 @@ Contact me:
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/pilgblog/practicum-yandex/tree/main/12_Определение%20токсичности%20ангоязычных%20комментариев">Классификация госконтрактов по объектам закупки</a></td>
+  <td><a href = "https://github.com/pilgblog/practicum-yandex/tree/main/Классификация%20госконтактов%20по%20объектам%20закупки">Классификация госконтрактов по объектам закупки</a></td>
   <td>ЦДО МГТУ им.Баумана</td>
   <td>Необходимо на основе данных с ftp.zakupki.gov.ru научиться определять группу, к которой относится контракт с кодом ОКПД-2 41, 42, 43, 71.1.</td>
   <td>pandas numpy matplotlib sklearn spacy nltk </td>
